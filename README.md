@@ -12,14 +12,17 @@
 - Member of National Honor Society 2019
 - ACT: 35 with 12 on writing
 - SATII: Math 1 780, Math 2 780, US History 710, World History 710
+
 #### Brown University High School Summer Program
 ###### Summer 2016
 - Participated in 2 week intensive course titled: Debating Democracy, Revolution and Reform
+
 #### Manhattan College - Summer Engineering Program for Women and Minorities
 ###### Summer 2017
 - Participated in 10 day immersive hands-on engineering program for minorities
 - Achieved 1st place in Robotics and Coding Competition, and Filtration System Competition
 Shadowed Structural Engineers at Thornton & Tomasetti working on Laguardia Airport, shopping malls in Indonesia, and Office High Rises in Ho Chi Minh, Vietnam.
+
 #### Johns Hopkins Engineering Innovation
 ###### Summer 2018
 - Participated in abbreviated freshman engineering program delving into mechanical, structural, civil, computer, electrical, chemical, and software engineering.
@@ -92,13 +95,13 @@ Raised over $20,000
 
 
 
-## Art
+## ART
 Another Passion includes creating artwork. Please be patient while the website is being updated to include a portfolio of works
 
 
 
 
-## To edit:
+## TO EDIT:
 You can use the [editor on GitHub](https://github.com/delucialepore/delucialepore.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
