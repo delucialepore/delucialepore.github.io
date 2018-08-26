@@ -1,6 +1,6 @@
 ##### Contact Information
-####### Email: dlepore101@icloud.com
-####### Phone: 9144133839
+###### Email: dlepore101@icloud.com
+###### Phone: 9144133839
 
 # Resume
 
