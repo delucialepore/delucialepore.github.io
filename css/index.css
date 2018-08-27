@@ -18,7 +18,7 @@
     #lead .social a:not(:hover) {
       -webkit-transition: 0.30s;
       transition: 0.30s;
-      color: #444444; }
+      color: #ffffff; }
   #lead .pic-and-social {
     margin-left: 10%; }
   #lead .profilePic {
@@ -30,7 +30,7 @@
     #lead .description a {
       padding-left: 4px;
       padding-right: 4px;
-      color: #333333;
+      color: #ffffff;
       text-decoration: none; }
     #lead .description a:hover {
       -webkit-transition: 0.15s;
@@ -120,6 +120,14 @@
   .experience h1 {
     text-align: center; }
 
+.artwork portfolio {
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: calc(50px / 2);
+  margin-bottom: 50px; }
+  .artwork portfolio h1 {
+    text-align: center; }
+
 /*==================================
     TIMELINE
 ==================================*/
@@ -173,7 +181,7 @@
   .timeline-marker:after {
     content: "";
     width: 3px;
-    background: #bcbff0;
+    background: #8a2e75;
     display: block;
     position: absolute;
     top: 24px;
