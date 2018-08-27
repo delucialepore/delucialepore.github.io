@@ -217,7 +217,7 @@
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #6bae6b; }
+  border: 3px solid #000000; }
 
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
