@@ -191,7 +191,7 @@
   left: 0;
   width: 15px; }
   .timeline-marker:before {
-    background: #8a2e75;
+    background: #6bae6b;
     border: 3px solid transparent;
     border-radius: 100%;
     content: "";
@@ -217,7 +217,7 @@
 
 .timeline-item:not(.period):hover .timeline-marker:before {
   background: transparent;
-  border: 3px solid #6a9fb5; }
+  border: 3px solid #6bae6b; }
 
 /*----- TIMELINE CONTENT -----*/
 .timeline-content {
