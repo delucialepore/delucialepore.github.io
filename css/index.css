@@ -119,14 +119,39 @@
   margin-bottom: 50px; }
   .experience h1 {
     text-align: center; }
-
-.artworkportfolio {
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-top: calc(50px / 2);
-  margin-bottom: 50px; }
-  .artworkportfolio h1 {
-    text-align: center; }
+ .experience .experience-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between; }
+  .experience .experience-item {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+            flex: 0 0 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: top;
+        -ms-flex-align: top;
+            align-items: top; }
+  .experience .experience-icon {
+    width: 56px;
+    height: 56px; }
+  .experience .experience-description {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 83%;
+            flex: 0 0 83%; }
+    .experience .experience-description h4 {
+      margin-top: 0px; }
+    .experience .experience-description li {
+      margin-left: 0px; }
+    .experience .experience-description ul {
+      padding-left: 0px; }
 
 /*==================================
     TIMELINE
